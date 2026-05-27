@@ -186,7 +186,7 @@ footer{
 .btn-primary,
 .btn-secondary,
 .btn-menu:hover{
-    transition: 0,3s;
+    transition: 0.3s;
 }
 
 .btn-primary:hover,
